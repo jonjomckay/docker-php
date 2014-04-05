@@ -1,0 +1,17 @@
+{
+    "name": "jonjomckay/docker",
+    "description": "PHP client libary for the Docker Remote API",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonjo McKay",
+            "email": "jonjo@jonjomckay.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Docker\\": "src/"
+        }
+    }
+}
