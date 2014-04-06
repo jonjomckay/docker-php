@@ -50,7 +50,7 @@ class Container
     private $arguments;
 
     /**
-     * @var Configuration
+     * @var ContainerConfiguration
      */
     private $configuration;
 
@@ -117,7 +117,7 @@ class Container
     }
 
     /**
-     * @param \Docker\Entity\Configuration $configuration
+     * @param \Docker\Entity\ContainerConfiguration $configuration
      */
     public function setConfiguration($configuration)
     {
@@ -125,7 +125,7 @@ class Container
     }
 
     /**
-     * @return \Docker\Entity\Configuration
+     * @return \Docker\Entity\ContainerConfiguration
      */
     public function getConfiguration()
     {

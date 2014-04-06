@@ -1,7 +1,11 @@
 <?php
 namespace Docker\Entity;
 
-class Configuration
+/**
+ * Class ContainerConfiguration
+ * @package Docker\Entity
+ */
+class ContainerConfiguration
 {
 
     /**
