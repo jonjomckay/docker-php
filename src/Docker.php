@@ -3,6 +3,10 @@ namespace Docker;
 use Docker\Entity\ContainerChange;
 use Docker\Entity\HostConfiguration;
 
+/**
+ * Class Docker
+ * @package Docker
+ */
 class Docker
 {
 

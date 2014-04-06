@@ -1,6 +1,10 @@
 <?php
 namespace Docker\Entity;
 
+/**
+ * Class State
+ * @package Docker\Entity
+ */
 class State
 {
 

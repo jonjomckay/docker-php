@@ -1,6 +1,10 @@
 <?php
 namespace Docker\Entity;
 
+/**
+ * Class Port
+ * @package Docker\Entity
+ */
 class Port
 {
 

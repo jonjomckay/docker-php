@@ -1,6 +1,10 @@
 <?php
 namespace Docker\Entity;
 
+/**
+ * Class Container
+ * @package Docker\Entity
+ */
 class Container
 {
 

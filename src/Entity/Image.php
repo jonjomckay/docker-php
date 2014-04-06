@@ -1,6 +1,10 @@
 <?php
 namespace Docker\Entity;
 
+/**
+ * Class Image
+ * @package Docker\Entity
+ */
 class Image
 {
 
